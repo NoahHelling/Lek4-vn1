@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+div{
+    background-color: lightgrey;
+    height: 250px;
+    margin: 20px;
+}
+
+
+
+
+h1{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    font-family: "roboto mono", roboto mono;
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.sidfot {
+    text-align: center;
+}
